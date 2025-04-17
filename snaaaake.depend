@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1744875507 source:c:\users\pc\desktop\enregistrement_livre.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<graphics.h>
+
+1744577142 source:c:\users\pc\desktop\vlod\snaaaake\game.c
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	"serpent.h"
+	"food.h"
+	"graphics.h"
+
+1744577275 c:\users\pc\desktop\vlod\snaaaake\serpent.h
+
+1744577315 c:\users\pc\desktop\vlod\snaaaake\food.h
+
+1744578362 c:\users\pc\desktop\vlod\snaaaake\graphics.h
+
+1744875374 source:c:\users\pc\desktop\vlod\snaaaake\graphics.c
+	"raylib.h"
+	"graphics.h"
+
+1731929046 c:\users\pc\desktop\vlod\raylib-5.5_win64_mingw-w64\include\raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
+1744574455 source:c:\users\pc\desktop\vlod\snaaaake\interface.c
+
+1744578362 source:c:\users\pc\desktop\vlod\snaaaake\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"variables.h"
+	"jeu.h"
+	"graphics.h"
+
+1744578363 c:\users\pc\desktop\vlod\snaaaake\variables.h
+
+1744577744 c:\users\pc\desktop\vlod\snaaaake\jeu.h
+
+1744578362 source:c:\users\pc\desktop\vlod\snaaaake\variables.c
+	"variables.h"
+
+1636050366 c:\users\pc\desktop\vlod\raylib-4.0.0_win64_mingw-w64\include\raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
